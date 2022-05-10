@@ -43,7 +43,7 @@ Instructions below will help you setup your local machine to run the copy of thi
     ```
     git clone https://github.com/arjun-pp/seattle-airbnb.git
     
-    jupyter-notebook 
+    jupyter notebook 
     
    
     ```
