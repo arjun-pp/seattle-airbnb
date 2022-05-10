@@ -1,6 +1,5 @@
 # seattle-airbnb
 
-## UDACITY Data Scientist Nanodegree CRISP-DM PROJECT
 
 This project is about:
 
@@ -15,12 +14,10 @@ This project is about:
 *Sharing insights with stakeholders.
 
 I have used Seattle AirBnB dataset(https://www.kaggle.com/airbnb/seattle) to answer the following questions and find predictive variables for price.
-  - What are the peak days in Seattle?
-  - Which areas are more pricy than others?
-  - What are the major factors that determine prices?
+  - Find what features affect an Airbnb price based on the features in the listings.csv
+  - Find what is the trend of price change during an year.
+  - Find what is the trend of prices change during a week.
 
-Medium Blog Post: https://medium.com/@elifsurmelif/seattle-airbnb-market-price-analytics-97196545da3a
-If you have difficulty in displaying .ipynb files please go to  https://nbviewer.jupyter.org/ and paste the link that you're trying to display the notebook such as https://github.com/elifinspace/udacity_crispdm/blob/master/explore_raw.ipynb
 
 ## Getting Started
 
