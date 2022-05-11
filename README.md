@@ -52,7 +52,9 @@ Instructions below will help you setup your local machine to run the copy of thi
 ## Summary
 Price depends on 'accommodates', 'bathrooms', 'bedrooms', 'beds', 'guests_included', 'neighbourhood_group_cleansed', 'property_type', 'room_type', 'bed_type', 'cancellation_policy', 'zipcode'. An r2 score of 0.65 was achieved in this experiment using Linear Regression.
 
-Price also varies during an year and is highest during Jun and July. Also there is a pattern within a week and price is highest on Fridays and Saturdays. 
+Price also varies during an year and is highest during Jun and July. Also there is a pattern within a week and price is highest on Fridays and Saturdays.
+
+You can read more about it here. https://medium.com/@arjun-pp/hosting-an-airbnb-pricing-is-the-key-68c6f7fbcbe9
 
 ## Acknowledgements
 
