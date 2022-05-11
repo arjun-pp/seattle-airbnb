@@ -49,8 +49,10 @@ Instructions below will help you setup your local machine to run the copy of thi
     ```
   - run seattle-airbnb.ipynb: This notebook includes the preliminary work, explorations.
   
+## Summary
+Price depends on 'accommodates', 'bathrooms', 'bedrooms', 'beds', 'guests_included', 'neighbourhood_group_cleansed', 'property_type', 'room_type', 'bed_type', 'cancellation_policy', 'zipcode'. An r2 score of 0.65 was achieved in this experiment using Linear Regression.
 
+## Acknowledgements
 
-## Authors
-
-* **Arjun P P**
+* Kaggle
+* Stackoverflow
